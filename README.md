@@ -20,7 +20,21 @@ A feature-rich, cross-platform command-line task management application built wi
 
 ## Installation
 
+### Homebrew (macOS)
+
+You can install the CLI Todo App on macOS easily using Homebrew:
+
+```bash
+# Add the tap
+brew tap gourangadassamrat/tap
+
+# Install the app
+brew install cli-todo-app
+
+# Verify installation
+todo-app
 ### Download Pre-built Binaries
+```
 
 Download the latest release for your platform from the [Releases](https://github.com/GourangaDasSamrat/cli-todo-app/releases) page:
 
